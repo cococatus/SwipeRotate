@@ -1,0 +1,65 @@
+# =============== #
+# Unity generated #
+# =============== #
+build/
+buildPC/
+/Temp/
+Obj/
+obj/
+UnityGenerated/
+Library/
+Assets/Assemblies/*.dll.mdb
+Assets/Assemblies/*.dll.mdb.meta
+desertwars.sln
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+/Backup/
+/packages/
+/obj/
+/PestelLib/Server/bin
+Debug
+Release
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+
+# ===================================== #
+# Local #
+# ===================================== #
+Assets/External/UnityVS/
+Assets/External/UnityVS.meta
+Assets/UnityVS/
+Assets/UnityVS.meta
+Builds/
+Export/
+/Art/
+/Source/
+*.sublime*
+Assets/Resources/config.json*
+Assets/Resources/config*.json.meta
+.idea/
+
+
+.vs/
+Assets/Plugins/Symlinks*
+Assets/Plugins/NavMeshComponents/Examples*
+Assets/Plugins/NavMeshComponents/Tests*
